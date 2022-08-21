@@ -1,0 +1,19 @@
+#page_header {
+background: url(../images/firstview.jpg);
+position: relative;
+background-size: cover;
+}
+
+/* BODY */
+body {
+	   margin: 0;
+    padding: 0;
+		height:100%;
+}
+
+
+html {
+	   margin: 0;
+    padding: 0;
+		height:100%;
+}

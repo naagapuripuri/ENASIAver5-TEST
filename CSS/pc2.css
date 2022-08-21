@@ -1,0 +1,116 @@
+@media screen and (min-width: 767px) { /*ウィンドウ幅が767px以上の場合に適用*/
+/* HEADER */
+header{
+}
+#page_header {
+background: url(./main1.png);
+height: 80vh;
+position: relative;
+background-size: cover;
+}
+#title_image {
+position: absolute;
+width: 400px;
+left: 0;
+right: 0;
+top:40%;
+margin:0 auto 0 auto;
+}
+#page_header_menu {
+padding : 5px ;
+position: fixed;
+color: #FFFFFF;
+right: 0;
+}
+#page_header_nav_list {
+list-style: none;
+margin: 0;  /* 余分なマージンを消去 */
+padding: 0; /* 余分なパディングを消去 */
+}
+#page_header_nav_list li{
+width: 100px;
+display: inline-block;
+margin: 0 1px;
+}
+#page_header_nav_list li a{
+color : #FFFFFF;
+}
+#page_header_menu2 {
+width: 400px;
+bottom: 0;
+left: 0;
+right: 0;
+position: absolute;
+margin: auto;
+}
+#page_header_bottom_list {
+list-style: none;
+text-align: center;
+}
+#page_header_bottom_list li{
+display: inline-block;
+width: 100px;
+}
+#page_header_bottom_list li a{
+color : #FFFFFF;
+}
+
+#testblock{
+max-width: 100%;
+background: black;
+}
+
+.inline-block_test {
+display: inline-block;      /* インラインブロック要素にする */
+background-color:  #ccc;    /* 背景色指定 */
+/*width: 24vw; */
+margin:  -2px;             /* 余白指定 */
+padding-top: 25%;  /* 1/4×100https://note.com/ikamasu/n/n06e3056498bb   */
+width: 25%;
+position: relative;
+}
+
+#divimg{
+	  max-width: 100%; /*必ず指定*/
+		  height: auto; /*必ず指定*/
+					 position: absolute;
+					   top: 0;
+						   left: 0;
+}
+
+
+#page_footer{
+width: 100%;
+    background-color: #89c7de;
+		    color: #fff;
+				    text-align: center;
+padding-bottom:0;
+margin-bottom:0;
+										    bottom: 0; /*下に固定*/
+}
+
+
+
+/* BODY */
+body {
+	   margin: 0;
+    padding: 0;
+		height:100%;
+}
+
+
+html {
+	   margin: 0;
+    padding: 0;
+		height:100%;
+}
+
+
+
+}
+
+
+
+
+
+

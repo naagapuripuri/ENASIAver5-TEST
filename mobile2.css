@@ -1,0 +1,224 @@
+@media screen and (max-width: 767px) { /*ウィンドウ幅が767px以下の場合に適用*/
+/* 全体 */
+BODY {
+	margin					: 0		;
+	padding					: 0		;
+	height					:	100%;
+	font-family			: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+HTML {
+	margin					: 0		;
+	padding					: 0		;
+	height					:	100%;
+}
+header{
+}
+main{
+}
+footer{
+}
+
+#center-title{
+	padding-top:5vh;
+}
+#center-title2{
+}
+#center-title3{
+	padding-top:12.5vh;
+}
+.center-title4{
+	padding-top:2.5vh;
+}
+#center-title5{
+	background-color:#000000;
+}
+
+
+
+
+
+
+
+
+
+/* ファーストビュー背景画像 */
+#page_header {
+	background			: url(./images/firstview.gif) center / cover;
+	position				: relative;
+	height					: 100vh;
+}
+/* ヘッダーロゴ */
+#top-logo {
+	position				: absolute;
+	width						: 100px;
+	padding-left		: 7.5%;
+	top							:	3%;
+	margin					:	0 auto 0 auto;
+}
+/* ヘッダーメニュー */
+#page_header_menu {
+	padding-top			: 2.0% ;
+	padding-right		: 3% ;
+	right						: 0;
+}
+#page_header_nav_list {
+	display					: flex;
+	justify-content	: flex-end;
+	list-style			: none;
+}
+#page_header_nav_list li{
+	width						: 7%;
+	padding-right		:	1.75%;
+	font-size				: 1.5vw;
+	display					: inline-block;
+}
+#page_header_nav_list li a{
+	color						: #000000;
+}
+/* ファーストビュータイトル */
+div.Top p {
+  margin-top			:	30vh ;
+  margin-bottom		:	0px ;
+ 	font-size				: 12vw;
+	text-align			: center;
+ 	color						: #FFFFFF;
+}
+div.Top2 p {
+  margin-top			:-4vh ;
+	font-size				: 7.6vw;
+	text-align			: center;
+ 	color						: #FFFFFF;
+}
+div.Top3 p {
+  margin-top			:30vh ;
+	font-size				: 1.5vw;
+ 	color						: #FFFFFF;
+ 	text-align			: center;
+}
+/* MISSIONとPHILOSOPHYタイトル */
+.l_parent{
+  width						: 100%;
+	height					: auto;
+}
+.l_child{
+  border					:solid 1px #000000;
+  width						: 150px;
+	text-align			: center;
+  padding					: 0.5%;
+	margin					: 0 auto;
+	margin-top			:100px;
+}
+/* MISSIONの2022/2024*/
+.inline-parent {
+  text-align			: center;         /* 子要素を左右中央揃えにする */
+}
+.inline-block{
+  display					: inline-block;      /* インラインブロック要素にする */
+	font-size				: 300%;
+	color						: #a0a0a0;
+ 	margin-top			:	5%;
+ 	margin-left			:	10%;
+ 	margin-right		:	10%;
+}
+/* MISSIONの説明文*/
+.inline-parent2 {
+  text-align			: center;         /* 子要素を左右中央揃えにする */
+}
+.inline-block2{
+  display					: inline-block;      /* インラインブロック要素にする */
+	font-size				: 75%;
+ 	margin-left			:	5%	;
+ 	margin-right		:	5%;
+}
+/* ココロファースト*/
+.inline-block3{
+  display					: inline-block;      /* インラインブロック要素にする */
+	font-size				: 250%;
+ 	color						: #a0a0a0;
+ 	text-align			: center;
+ 	margin-top			:	5%;
+}
+/* 事業紹介(上段)*/
+#testblock{
+	max-width				: 100%;
+	background-color: #000000;    /* 背景色指定 */
+}
+.inline-block_test {
+	display					: inline-block; 
+	position				: relative;
+	width						: 33.333%;
+	margin-left			: -2px;         
+	margin-right		: -2px;         
+	margin-bottom		: -2px;         
+	padding-top			: 33.333%;  
+}
+#divimg{
+	max-width				: 100%; 
+	height					: 80%; 
+	width						: 100%;
+	position				: absolute;
+	top							: 0;
+}
+/* 事業紹介(下段)*/
+#testblock2{
+	background-color: #000000;    /* 背景色指定 */
+}
+.inline-block_test2 {
+	display					: inline-block;      /* インラインブロック要素にする */
+	position				: relative;
+	width						: 33.333%;
+	margin-left			: -2px;         
+	margin-right		: -2px;         
+	margin-bottom		:	-12.5%;
+	padding-top			: 33.333%;  /* 1/4×100https://note.com/ikamasu/n/n06e3056498bb   */
+}
+#divimg2{
+	margin-top			:	-20%;
+	height					: 80%; 
+	width						: 100%;
+	position				: absolute;
+	top							: 0;
+}
+/* CORP INFOタイトル */
+.r2_parent{
+  width: 100%;
+  height: auto;
+}
+.r2_child{
+  border:solid 1px #FFFFFF;
+	color:#FFFFFF;
+  width: 150px;
+	text-align: center;
+	padding: 0.5%;
+ 	margin: 0 auto;
+}
+/* CORP INFO画像 */
+.corpinfo {
+	height					:	27.5vh;
+	background-color:  #000000;    /* 背景色指定 */
+	background			: url(./images/omotesando.png) center / cover;
+	color						: #FFFFFF;
+}
+/* CORP INFO説明文 */
+.inline-parent4 {
+	margin-top:3%;
+  text-align: center;         /* 子要素を左右中央揃えにする */
+	font-size				: 1.25vw;
+}
+.inline-block4{
+  display: inline-block;      /* インラインブロック要素にする */
+ font-size: 100%;
+ margin-left:1%;
+ margin-right:1%;
+ text-align: left
+}
+/* フッター */
+#page_footer{
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	bottom: 0; /*下に固定*/
+	font-size: 60%;
+	padding-top:0.25vh;
+	background-color:#000000;
+}
