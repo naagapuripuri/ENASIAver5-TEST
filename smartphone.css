@@ -52,7 +52,7 @@ footer{
 #top-logo {
 	position				: absolute;
 	width						: 100px;
-	padding-left		: 7.5%;
+	padding-left		: 5%;
 	top							:	3%;
 	margin					:	0 auto 0 auto;
 }
@@ -144,8 +144,8 @@ div.Top5 p {
 .inline-block2{
   display					: inline-block;      /* インラインブロック要素にする */
 	font-size				: 40%;
- 	margin-left			:	7%	;
- 	margin-right		:	8%;
+ 	margin-left			:	5.5%	;
+ 	margin-right		:	5.5%;
 }
 /* ココロファースト*/
 .inline-block3{
