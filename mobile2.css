@@ -96,14 +96,28 @@ div.Top3 p {
  	color						: #FFFFFF;
  	text-align			: center;
 }
+/*弊社について*/
+div.Top4 p {
+  margin-top			:20vh ;
+	font-size				: 2vw;
+ 	text-align			: center;
+}
+div.Top5 p {
+  margin-top			:5vh ;
+	font-size				: 2vw;
+ 	text-align			: center;
+}
+
+
+
 /* MISSIONとPHILOSOPHYタイトル */
 .l_parent{
-  margin-top			:20vh ;
+  margin-top			:10vh ;
   width						: 100%;
 	height					: auto;
 }
 .l_child{
-  margin-top			:20vh ;
+  margin-top			:10vh ;
   border					:solid 1px #000000;
   width						: 150px;
 	text-align			: center;
@@ -197,10 +211,9 @@ div.Top3 p {
 }
 /* CORP INFO画像 */
 .corpinfo {
-	height					:	30vh;
-	background-color:  #000000;    /* 背景色指定 */
 	background			: url(./images/omotesando.png) center / cover;
 	color						: #FFFFFF;
+	background-color: #000000;
 }
 /* CORP INFO説明文 */
 .inline-parent4 {
