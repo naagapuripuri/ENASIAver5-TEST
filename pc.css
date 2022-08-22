@@ -1,4 +1,4 @@
-@media screen and (min-width: 767px) { /*ウィンドウ幅が767px以上の場合に適用*/
+@media screen and (min-width: 980px) { /*ウィンドウ幅が767px以上の場合に適用*/
 /* BODY */
 BODY {
 	MARGIN					: 0		;
@@ -178,6 +178,17 @@ div.Top3 p {
  font-size: 1vw;
  color: #FFFFFF;
  text-align: center;
+}
+/*弊社について*/
+div.Top4 p {
+  margin-top			:25vh ;
+	font-size				: 1vw;
+ 	text-align			: center;
+}
+div.Top5 p {
+  margin-top			:5vh ;
+	font-size				: 1vw;
+ 	text-align			: center;
 }
 #testblock{
 max-width: 100%;
