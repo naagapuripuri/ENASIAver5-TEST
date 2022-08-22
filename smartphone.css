@@ -58,7 +58,7 @@ footer{
 }
 /* ヘッダーメニュー */
 #page_header_menu {
-	padding-top			: 2.0% ;
+	padding-top			: 2.25% ;
 	padding-right		: 3% ;
 	right						: 0;
 }
@@ -82,7 +82,7 @@ div.Top p {
   margin-bottom		:	0px ;
  	font-size				: 12vw;
 	text-align			: center;
- 	color						: #db7093;
+ 	color						: #db1093;
 }
 div.Top2 p {
   margin-top			: -1vh ;
@@ -92,7 +92,7 @@ div.Top2 p {
 }
 div.Top3 p {
   margin-top			:35vh ;
-	font-size				: 1.75vw;
+	font-size				: 1.85vw;
  	color						: #FFFFFF;
  	text-align			: center;
 }
