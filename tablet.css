@@ -52,7 +52,7 @@ footer{
 #top-logo {
 	position				: absolute;
 	width						: 100px;
-	padding-left		: 6%;
+	padding-left		: 3%;
 	top							:	3%;
 	margin					:	0 auto 0 auto;
 }
@@ -81,7 +81,7 @@ div.Top p {
   margin-bottom		:	0px ;
  	font-size				: 12vw;
 	text-align			: center;
- 	color						: #008b8b;
+ 	color						: #ff7f50;
 }
 div.Top2 p {
   margin-top			: -4vh ;
@@ -97,7 +97,7 @@ div.Top3 p {
 }
 /*弊社について*/
 div.Top4 p {
-  margin-top			:20vh ;
+  margin-top			: 30vh ;
 	font-size				: 2vw;
  	text-align			: center;
 }
