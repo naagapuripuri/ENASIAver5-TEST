@@ -197,7 +197,7 @@ div.Top3 p {
 }
 /* CORP INFO画像 */
 .corpinfo {
-	height					:	27.5vh;
+	height					:	30vh;
 	background-color:  #000000;    /* 背景色指定 */
 	background			: url(./images/omotesando.png) center / cover;
 	color						: #FFFFFF;
@@ -206,7 +206,7 @@ div.Top3 p {
 .inline-parent4 {
 	margin-top:3%;
   text-align: center;         /* 子要素を左右中央揃えにする */
-	font-size				: 1.25vw;
+	font-size				: 2vw;
 }
 .inline-block4{
   display: inline-block;      /* インラインブロック要素にする */
