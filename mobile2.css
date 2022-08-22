@@ -16,10 +16,11 @@ header{
 main{
 }
 footer{
+	background-color:#000000;
 }
 
 #center-title{
-	padding-top:5vh;
+	padding-top:0vh;
 }
 #center-title2{
 }
@@ -84,7 +85,7 @@ div.Top p {
  	color						: #FFFFFF;
 }
 div.Top2 p {
-  margin-top			:-4vh ;
+  margin-top			: -1vh ;
 	font-size				: 7.6vw;
 	text-align			: center;
  	color						: #FFFFFF;
@@ -97,10 +98,12 @@ div.Top3 p {
 }
 /* MISSIONとPHILOSOPHYタイトル */
 .l_parent{
+  margin-top			:20vh ;
   width						: 100%;
 	height					: auto;
 }
 .l_child{
+  margin-top			:20vh ;
   border					:solid 1px #000000;
   width						: 150px;
 	text-align			: center;
