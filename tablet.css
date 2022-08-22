@@ -136,13 +136,20 @@ div.Top5 p {
  	margin-left			:	10%;
  	margin-right		:	10%;
 }
+.inline-block p{
+	font-size				: 25%;
+ 	margin-top			:	0vh;
+	color						: #000000;
+
+
+}
 /* MISSIONの説明文*/
 .inline-parent2 {
   text-align			: center;         /* 子要素を左右中央揃えにする */
 }
 .inline-block2{
   display					: inline-block;      /* インラインブロック要素にする */
-	font-size				: 90%;
+	font-size				: 100%;
  	margin-left			:	7.5%	;
  	margin-right		:	7.5%;
 }
