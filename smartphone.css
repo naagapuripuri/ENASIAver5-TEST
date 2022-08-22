@@ -58,7 +58,7 @@ footer{
 }
 /* ヘッダーメニュー */
 #page_header_menu {
-	padding-top			: 2.25% ;
+	padding-top			: 3% ;
 	padding-right		: 3% ;
 	right						: 0;
 }
@@ -82,7 +82,7 @@ div.Top p {
   margin-bottom		:	0px ;
  	font-size				: 12vw;
 	text-align			: center;
- 	color						: #ab1045;
+ 	color						: #87cefa;
 }
 div.Top2 p {
   margin-top			: -1vh ;
@@ -144,8 +144,8 @@ div.Top5 p {
 .inline-block2{
   display					: inline-block;      /* インラインブロック要素にする */
 	font-size				: 40%;
- 	margin-left			:	6%	;
- 	margin-right		:	6%;
+ 	margin-left			:	7%	;
+ 	margin-right		:	8%;
 }
 /* ココロファースト*/
 .inline-block3{
