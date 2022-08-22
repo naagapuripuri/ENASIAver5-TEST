@@ -78,27 +78,27 @@ footer{
 }
 /* ファーストビュータイトル */
 div.Top p {
-  margin-top			:	25vh ;
+  margin-top			:	15vh ;
   margin-bottom		:	0px ;
- 	font-size				: 16vw;
+ 	font-size				: 22vw;
 	text-align			: center;
  	color						: #dda0dd;
 }
 div.Top2 p {
   margin-top			: -5vh ;
-	font-size				: 10vw;
+	font-size				: 14vw;
 	text-align			: center;
  	color						: #FFFFFF;
 }
 div.Top3 p {
-  margin-top			:25vh ;
+  margin-top			:20vh ;
 	font-size				: 1.85vw;
  	color						: #FFFFFF;
  	text-align			: center;
 }
 /*弊社について*/
 div.Top4 p {
-  margin-top			: 25vh ;
+  margin-top			: 27.5vh ;
 	font-size				: 2vw;
  	text-align			: center;
 }
