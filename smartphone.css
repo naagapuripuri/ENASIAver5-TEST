@@ -91,7 +91,7 @@ div.Top2 p {
  	color						: #FFFFFF;
 }
 div.Top3 p {
-  margin-top			:35vh ;
+  margin-top			:25vh ;
 	font-size				: 1.85vw;
  	color						: #FFFFFF;
  	text-align			: center;
@@ -103,6 +103,11 @@ div.Top4 p {
  	text-align			: center;
 }
 div.Top5 p {
+  margin-top			:2.5vh ;
+	font-size				: 2vw;
+ 	text-align			: center;
+}
+div.Top6 p {
   margin-top			:2.5vh ;
 	font-size				: 2vw;
  	text-align			: center;
