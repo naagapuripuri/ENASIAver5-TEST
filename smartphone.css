@@ -91,19 +91,19 @@ div.Top2 p {
  	color						: #FFFFFF;
 }
 div.Top3 p {
-  margin-top			:30vh ;
-	font-size				: 2vw;
+  margin-top			:35vh ;
+	font-size				: 1.5vw;
  	color						: #FFFFFF;
  	text-align			: center;
 }
 /*弊社について*/
 div.Top4 p {
-  margin-top			:20vh ;
+  margin-top			:25vh ;
 	font-size				: 2vw;
  	text-align			: center;
 }
 div.Top5 p {
-  margin-top			:5vh ;
+  margin-top			:2.5vh ;
 	font-size				: 2vw;
  	text-align			: center;
 }
@@ -237,4 +237,8 @@ div.Top5 p {
 	font-size: 60%;
 	padding-top:0.25vh;
 	background-color:#000000;
+}
+#tel{
+	color						:	#FFFFFF;
+  text-decoration	:	none;
 }

@@ -227,6 +227,10 @@ div.Top5 p {
  margin-right:1%;
  text-align: left
 }
+#tel{
+	color						:	#FFFFFF;
+  text-decoration	:	none;
+}
 /* フッター */
 #page_footer{
 	width: 100%;
